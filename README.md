@@ -13,7 +13,7 @@ Assetlerin çoğu telifli olduğu için sadece script dosyalarını paylaştım.
 - Birincilik hedefli yarışlar ve süreye dayalı checkpoint tamamlama modları
 - Farklı özelliklere sahip oynanabilir araç seçenekleri
 
- ------------------------------------------------------------ TR ------------------------------------------------------------
+ ------------------------------------------------------------ EN ------------------------------------------------------------
 - File-based data loading and saving system
 - Switchable driving physics between realistic and arcade modes
 - Nitro, boost mechanic providing temporary speed advantages
