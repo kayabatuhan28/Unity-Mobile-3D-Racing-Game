@@ -1,5 +1,5 @@
 # Unity-Mobile-3D-Racing-Game
-Gameplay Video Link : https://drive.google.com/file/d/1Yok4SbARUiE8vupj4K41nyH-jAO-JiRE/view?usp=drive_link
+Gameplay Video Link : https://www.youtube.com/watch?v=7R7tLNmc-HE&list=PLeUQ9Opn9i7PpZXLhEPG_rDb0LjjYapMA&index=1
 
 Assetlerin çoğu telifli olduğu için sadece script dosyalarını paylaştım.
 
