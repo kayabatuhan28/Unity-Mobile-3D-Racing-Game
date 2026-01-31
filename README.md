@@ -12,7 +12,7 @@ Assetlerin çoğu telifli olduğu için sadece script dosyalarını paylaştım.
 - Araç parçalarının geliştirilmesi ve değiştirilebilmesi
 - Birincilik hedefli yarışlar ve süreye dayalı checkpoint tamamlama modları
 - Farklı özelliklere sahip oynanabilir araç seçenekleri
-
+ 
  ------------------------------------------------------------ EN ------------------------------------------------------------
 - File-based data loading and saving system
 - Switchable driving physics between realistic and arcade modes
